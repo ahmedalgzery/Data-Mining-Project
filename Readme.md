@@ -4,6 +4,10 @@
 
 This code is designed to perform credit card fraud detection using machine learning techniques. The dataset used for this task is loaded from the 'creditcard.csv' file. The code covers data exploration, preprocessing, visualization, and the application of machine learning models.
 
+## Downloading the Dataset
+
+To use this code, you'll need to download the dataset from the provided link: [Dataset Link](https://t.me/+qjc7pOaaFMxkMzg8). Once downloaded, save the dataset file as 'creditcard.csv' in the same directory as your code file.
+
 ## Prerequisites
 
 Make sure you have the required Python libraries installed. You can install them using the following:
